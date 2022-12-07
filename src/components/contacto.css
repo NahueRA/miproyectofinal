@@ -1,0 +1,16 @@
+.edicionformulario{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.edicionformulario1{
+    margin: 1rem;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+
+}
+
+.formulario1 {
+    display: block;
+}

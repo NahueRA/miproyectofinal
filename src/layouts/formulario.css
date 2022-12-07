@@ -1,0 +1,30 @@
+.formularioConsulta {
+
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    max-width: 600px;
+}
+
+textarea {
+    margin-top: 2rem;
+    height: 10rem;
+
+}
+
+button {
+    margin-top: 1rem;
+
+    align-self: center;
+
+}
+
+button:hover {
+    background-color: rgb(30, 222, 222)
+}
+
+input {
+    border-color: rgb(141, 16, 204);
+    border-width: 1px
+}

@@ -1,4 +1,7 @@
+
 .App {
+  color: white;
+  background-color: rgb(58, 58, 62);
   text-align: center;
 }
 
@@ -36,3 +39,19 @@
     transform: rotate(360deg);
   }
 }
+
+.contenedorData {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(28, 32, 33, 0.97);
+  color: rgb(240, 229, 229);
+  text-shadow: 3px 3px rgba(22, 22, 25, 0.5);
+  height: 100vh; 
+  
+}
+.navBg {
+  background-color: rgb(22, 20, 20);
+}
+
+
+

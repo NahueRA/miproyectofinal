@@ -1,0 +1,19 @@
+.img1 {
+    width: 40%;
+    height: 400px;
+}
+
+.contenedorPersonajes {
+    color: white;
+    background-color: rgb(58, 58, 62);
+    padding-bottom: 20rem;
+}
+
+.house2 {
+    text-align: justify;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

@@ -1,0 +1,13 @@
+.img2 {
+    width: 40%;
+    height: 400px;
+}
+
+.house1 {
+    text-align: justify;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    }

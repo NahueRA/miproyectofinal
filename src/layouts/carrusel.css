@@ -1,0 +1,37 @@
+.dragon {
+    width: 70%;
+    height: 570px;
+
+}
+
+
+/*hola*/
+
+
+
+
+
+@media(max-width:350px) {
+    .dragon {
+        align-items: normal;
+        display: flex;
+        justify-content: center;
+        width: 400px;
+        height: 265px
+    }
+
+    .vhagar {
+        align-items: normal;
+        display: flex;
+        justify-content: center;
+        width: 400px;
+        height: 265px
+    }
+
+}
+
+@media (max-width: 700px) {
+    .parrafo {
+        display: none;
+    }
+}
